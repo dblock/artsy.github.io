@@ -4,6 +4,19 @@
 <script type="text/javascript">
   $(function() {
     // TODO: Move this whole file to a javascript file that is included in the footer
+    
+    var isWhite = false
+    $( window ).scroll(function() {
+      console.log(window.scrollPosition)
+      var shouldBeWhite = window.scrollPosition != 0
+      if (shouldBeWhite && !isWhite) {
+        $("body").css( "background-color", "white" )
+        isWhite = true
+      } else if (!shouldBeWhite && isWhite) {
+        $("body").css( "background-color", "#d4ffff" )
+        isWhite = false
+      }
+    });
 
     // Main sticky header
     if ($(window).width() >= 700) {
