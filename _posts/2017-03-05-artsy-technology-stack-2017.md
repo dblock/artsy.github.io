@@ -143,13 +143,15 @@ Slack usage started out small, but as the Artsy team grew, so did the number of 
 
 ## Global Engineering
 
-While most Engineers live in New York, our Engineering team has now contributors in Berlin, Seattle, Minneapolis and London. We've not shyed away from hiring regardless of locations. 
+While most Engineers live in New York, our Engineering team has now contributors in Berlin, Seattle, Minneapolis and London. We've not shyed away from hiring regardless of locations.
 
 <TODO: remote workers vs. office workers>
 
 To help people know each-other across the company we developed and open-sourced a [team navigator](https://github.com/artsy/team-navigator). We also facilitate weekly meetings between any three people across the company with a tool called [sup](https://github.com/ilyakava/sup).
 
 ## Diversity
+
+Artsy Engineering is 28 people, including 3 leads, 2 directors and a CTO. We have 7 women and 7 non-white guys. While our friends in other Engineering organizations often compliment us on the fact that our team is somewhat more diverse than theirs, we recognize that we're very far from where we'd like to be (eg. only 1/5 people in a leadership role is a woman) and therefore we have a lot more work to do.
 
 <TODO: insert stats>
 
